@@ -33,7 +33,7 @@ O Brain Agriculture é uma API desenvolvida com FastAPI para gerenciamento de pr
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/josejonatasoliveira/brain_agriculture.git
+   git clone https://github.com/josejonatasoliveira/brain_agriculture_v2.git
    cd brain_agriculture
    ```
 
